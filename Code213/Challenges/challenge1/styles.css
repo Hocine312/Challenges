@@ -1,0 +1,33 @@
+body {
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+header {
+  text-align: center;
+  padding: 20px;
+  color: #333;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  display: flex;
+}
+section {
+  margin: 20px 0;
+  padding: 15px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+}
+ul, ol {
+  padding-left: 20px;
+  margin: 10px 0;
+  list-style-type: disc;
+  list-style-position: inside;
+  
+}
+.nutrition {
+  font-weight: bold;
+  background-color: #eef;
+  padding: 10px;
+}
